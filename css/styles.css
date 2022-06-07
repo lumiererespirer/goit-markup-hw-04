@@ -149,6 +149,11 @@ img {
     letter-spacing: 0.02em;
 }
 
+.header-address-link {
+    display: flex;
+    align-items: center;
+}
+
 .header-nav-link:hover,
 .header-nav-link:focus,
 .header-address-link:hover,
